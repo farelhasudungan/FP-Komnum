@@ -1,2 +1,5 @@
 # FP-Komnum
 Final Project Komputasi Numerik
+
+FARREL HASUDUNGAN IMMANUEL LIMBONG
+5025241016
